@@ -1,1 +1,5 @@
--- 未适配新版本
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Zero Hub",
+    Text = "Not yet compatible with the latest version",
+    Duration = 3,
+})
